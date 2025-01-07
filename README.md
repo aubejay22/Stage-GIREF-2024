@@ -17,16 +17,13 @@ La seconde partie était orientée vers la recherche et consistait à intégrer 
 - **Application 3D** : Étude des déformations et du stress de von Mises sur une poutre en acier.  
   - Les simulations Monte Carlo ont été réalisées à l'aide du logiciel **MEF++**, développé par le GIREF.  
   - L'analyse des résultats a été effectuée en Python.  
-     **Fichier à consulter** : [`giref_3D.ipynb`](./giref_3D.ipynb)
+  **Fichier à consulter** : [`giref_3D.ipynb`](./giref_3D.ipynb)
 
 
 
-En conclusion du stage, j'ai réalisé une présentation détaillée lors du **CIMMUL** (Université Laval). Cette présentation a couvert :  
-- La méthodologie et les résultats des simulations Monte Carlo en 1D et 3D.
-- L'évaluation des incertitudes et l'application des méthodes statistiques (percentiles, bootstrap-t, etc.).
-- L'interprétation des résultats, notamment sur la déformation de matériaux sous contraintes aléatoires.
-- 
- **Fichier PDF** : [`stage_giref.pdf`](./stage_giref.pdf)
+En conclusion du stage, j'ai réalisé une présentation détaillée lors du **CIMMUL** (Université Laval) pour présenter mes résultats:  
+
+ **Fichier à consulter** : [`stage_giref.pdf`](./stage_giref.pdf)
 
 ---
 
