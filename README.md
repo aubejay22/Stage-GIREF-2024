@@ -1,6 +1,5 @@
 # Stage GIREF 2024
 
-# Stage en Méthode des Éléments Finis et Quantification d'Incertitude
 
 Ce stage s'est déroulé en deux parties principales :
 
@@ -19,6 +18,8 @@ La seconde partie était orientée vers la recherche et consistait à intégrer 
   - Les simulations Monte Carlo ont été réalisées à l'aide du logiciel **MEF++**, développé par le GIREF.  
   - L'analyse des résultats a été effectuée en Python.  
      **Fichier à consulter** : [`giref_3D.ipynb`](./giref_3D.ipynb)
+
+
 
 En conclusion du stage, j'ai réalisé une présentation détaillée lors du **CIMMUL** (Université Laval). Cette présentation a couvert :  
 - La méthodologie et les résultats des simulations Monte Carlo en 1D et 3D.
