@@ -21,8 +21,7 @@ La seconde partie était orientée vers la recherche et consistait à intégrer 
 
 
 
-En conclusion du stage, j'ai réalisé une présentation détaillée lors du **CIMMUL** (Université Laval) pour présenter mes résultats:  
-
+En conclusion du stage, j'ai réalisé une présentation détaillée lors du **CIMMUL** (Université Laval) pour présenter mes résultats.  
  **Fichier à consulter** : [`stage_giref.pdf`](./stage_giref.pdf)
 
 ---
